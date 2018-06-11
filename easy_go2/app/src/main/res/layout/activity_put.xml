@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/put_button"
+        android:layout_width="match_parent"
+        android:layout_height="255dp"
+        android:text="請問您要放什麼"
+        android:textSize="36sp" />
+
+    <Button
+        android:id="@+id/btn_sent"
+        android:layout_width="match_parent"
+        android:layout_height="255dp"
+        android:text="請問您要放在哪"
+        android:textSize="36sp" />
+
+
+</LinearLayout>
